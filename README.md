@@ -21,6 +21,7 @@ The core innovation is the integration of Computer Vision (CV) technology for re
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d87abc1-2978-4b86-814c-d85368d996dc" />
 ## Use Cases
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7552cd3d-dc65-447d-9bd2-6c73b219d1c5" />
+
 ## Technology Stack
 Python (Flask/Django)
 (CV)PyTorch 
@@ -29,6 +30,7 @@ DataPostgreSQL with PostGIS Extension
 Flutter 
 Unity 
 AWS 
+
 ## Dependencies
 1. Initial Mapping & Graph Model Setup	10 days	₹15,000
 2. Data Feed Integration (APIs)	15 days	₹10,000
