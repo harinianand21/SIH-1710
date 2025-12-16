@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:16/12/2025
+## Register Number:212223040056
+## Name:HARINI A
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -19,11 +19,8 @@ The solution focuses on creating an intelligent, multi-platform navigation syste
 The core innovation is the integration of Computer Vision (CV) technology for real-time density mapping directly into the pathfinding engine.
 ## Proposed Solution / Architecture Diagram
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d87abc1-2978-4b86-814c-d85368d996dc" />
-
 ## Use Cases
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7552cd3d-dc65-447d-9bd2-6c73b219d1c5" />
-
-
 ## Technology Stack
 Python (Flask/Django)
 (CV)PyTorch 
