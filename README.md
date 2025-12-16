@@ -12,15 +12,30 @@ Ministry of Railway
 
 ## Idea
 
+Crowd-Sensitive Routing: The 'Calm Route' Navigation System
 
+The solution focuses on creating an intelligent, multi-platform navigation system that goes beyond simple point-to-point directions. It uses real-time crowd density data to dynamically calculate the most efficient and least congested path—the 'Calm Route'. This ensures not only timely navigation but also a less stressful and safer passenger experience.
+
+The core innovation is the integration of Computer Vision (CV) technology for real-time density mapping directly into the pathfinding engine.
 ## Proposed Solution / Architecture Diagram
-
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d87abc1-2978-4b86-814c-d85368d996dc" />
 
 ## Use Cases
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7552cd3d-dc65-447d-9bd2-6c73b219d1c5" />
 
 
 ## Technology Stack
-
-
+Python (Flask/Django)
+(CV)PyTorch 
+DatabaseNeo4j (Graph Database)
+DataPostgreSQL with PostGIS Extension
+Flutter 
+Unity 
+AWS 
 ## Dependencies
-
+1. Initial Mapping & Graph Model Setup	10 days	₹15,000
+2. Data Feed Integration (APIs)	15 days	₹10,000
+3. Computer Vision (CV) Model Training	20 days	₹15,000
+4. Mobile & Kiosk UI Prototyping	10 days	₹5,000
+5. Cloud/Hosting Setup & Basic IPS Test	5 days	₹5,000
+Total Estimated Development Effort	60 days	₹50,000
